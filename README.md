@@ -1,4 +1,4 @@
-![banner](./assets/banner.png)
+
 <p align="center">
   <img src="https://github.com/sajeeb5523/sajeeb5523/blob/main/assets/banner.png" alt="Sajeeb Al Jabed Banner" width="100%">
 </p>
@@ -65,3 +65,4 @@
 ---
 
 ⭐ *“Let’s build something impactful — in code, in careers, and in the tech community.”*  
+
