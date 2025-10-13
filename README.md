@@ -13,15 +13,7 @@
 - 🎨 I enjoy crafting smooth, responsive user experiences.  
 - ⚡ Turning ideas into reality through code and creativity!
 
-- **Let’s build something impactful — in code, in careers, and in the tech community.**
-
----
-
-### 🔭 Current Activities  
-- 🚀 Learning and building with **Next.js** (SSR & API routes).  
-- 🧭 Developing a **Tourism Website** (frontend + UX polish).  
-- 💼 Improving the **Career Code** project (full-stack).  
-- 📚 Exploring **backend architecture** with Node.js & Express.  
+- **Let’s build something impactful — in code, in careers, and in the tech community.** 
 
 ---
 
@@ -55,7 +47,6 @@
 
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats  
@@ -71,12 +62,3 @@
 - Phone: **+8801571595523**
 - Email: **sajeebaljabed1@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/sajeebaljabed5523**
-
----
-
-⭐ *“Let’s build something impactful — in code, in careers, and in the tech community.”*  
-
-
-
-
-
