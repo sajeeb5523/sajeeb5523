@@ -8,6 +8,7 @@
 </h1>
 
 ---
+**Mern Stack Web Developer** — building responsive and accessible web apps with React, Tailwind CSS, Node.js and MongoDB.
 
 ### 👨‍💻 About Me  
 - 💻 I build **modern, maintainable web apps** with React, TailwindCSS, Node.js & MongoDB.  
@@ -65,4 +66,5 @@
 ---
 
 ⭐ *“Let’s build something impactful — in code, in careers, and in the tech community.”*  
+
 
