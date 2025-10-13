@@ -2,9 +2,7 @@
   <img src="https://github.com/sajeeb5523/sajeeb5523/blob/main/assets/banner.png" alt="Sajeeb Al Jabed Banner" width="100%">
 </p>
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajeeb Al Jabed;Frontend+%2F+MERN+Stack+Developer;React+%7C+TailwindCSS+%7C+Node.js+%7C+MongoDB;Always+learning+new+things!+🚀" alt="Typing SVG" />
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajeeb+Al+Jabed;Frontend+%2F+MERN+Stack+Developer;React+%7C+TailwindCSS+%7C+Node.js+%7C+MongoDB;Always+learning+new+things!+🚀)
 
 ---
 **Mern Stack Web Developer** — building responsive and accessible web apps with React, Tailwind CSS, Node.js and MongoDB.
@@ -37,7 +35,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <!-- ===== BACKEND ===== -->
   <b>⚙️ Backend</b><br><br>
@@ -46,7 +44,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-  <br><br>
+  <br>
 
   <!-- ===== TOOLS & DEVOPS ===== -->
   <b>🧠 Tools & DevOps</b><br><br>
@@ -77,6 +75,7 @@
 ---
 
 ⭐ *“Let’s build something impactful — in code, in careers, and in the tech community.”*  
+
 
 
 
