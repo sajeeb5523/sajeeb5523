@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://github.com/sajeeb5523/sajeeb5523/blob/main/assets/banner.png" alt="Sajeeb Al Jabed Banner" width="100%">
 </p>
 
-<h1 align="center">
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajeeb Al Jabed;Frontend+%2F+MERN+Stack+Developer;React+%7C+TailwindCSS+%7C+Node.js+%7C+MongoDB;Always+learning+new+things!+🚀" alt="Typing SVG" />
 </h1>
 
@@ -14,7 +13,9 @@
 - 💻 I build **modern, maintainable web apps** with React, TailwindCSS, Node.js & MongoDB.  
 - 🌱 Currently exploring **Next.js**, **Firebase**, and advanced backend patterns with **Express 5**.  
 - 🎨 I enjoy crafting smooth, responsive user experiences.  
-- ⚡ Turning ideas into reality through code and creativity!  
+- ⚡ Turning ideas into reality through code and creativity!
+
+- **Let’s build something impactful — in code, in careers, and in the tech community.**
 
 ---
 
@@ -26,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 💻 Skills 
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,31 +41,30 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/-Git-20232A?logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/-Vercel-20232A?logo=vercel)
+![VSCode](https://img.shields.io/badge/-VSCode-20232A?logo=visual-studio-code)
+
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sajeeb5523&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeeb5523&theme=react&hide_border=true&background=0D1117" />
-</p>
+<!-- Example cards — these use community services (add them or customize) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeeb5523&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb5523&layout=compact)
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sajeebaljabed5523/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sajeebaljabed1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sajeeb5523" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 📫 Contact
+- Location: **[Dinajpur, Bangladesh]**
+- WhatsApp: **+8801329099893**
+- Phone: **+8801571595523**
+- Email: **sajeebaljabed1@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/sajeebaljabed5523**
 
 ---
 
 ⭐ *“Let’s build something impactful — in code, in careers, and in the tech community.”*  
+
 
 
