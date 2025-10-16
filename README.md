@@ -17,6 +17,12 @@
 
 ---
 
+### 🔭 Current activities
+- Exploring **Next.js** and server-side rendering.
+- Learning advanced backend patterns with **Express 5** & **MongoDB**.
+
+---
+
 ### 💻 Skills 
 
 <p align="center">
@@ -62,3 +68,4 @@
 - Phone: **+8801571595523**
 - Email: **sajeebaljabed1@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/sajeebaljabed5523**
+
