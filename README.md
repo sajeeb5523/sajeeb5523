@@ -55,6 +55,16 @@
 
 ---
 
+## 📌 Featured projects (pin these to your profile)
+- **Gardening Hub** — Full-stack gardening platform (React, Node, MongoDB, Firebase).  
+  Repo: [gardening-hub-client](https://github.com/sajeeb5523/gardening-hub-client) / [gardening-hub-server](https://github.com/sajeeb5523/gardening-hub-server)`
+- **Food Expiry Management System** — Full-stack food system platform (React, Node, MongoDB, Firebase).  
+  Repo: [food-expiry-management-system-client](https://github.com/sajeeb5523/food-expiry-management-system-client) / [food-expiry-management-system-server](https://github.com/sajeeb5523/food-expiry-management-system-server)`
+- **Doc Talk** — Doctor sheba (React + Tailwind).    
+  Repo: [doc-talk](https://github.com/sajeeb5523/doc-talk)
+
+---
+
 ### 📊 GitHub Stats  
 <!-- Example cards — these use community services (add them or customize) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeeb5523&show_icons=true)
@@ -68,4 +78,5 @@
 - Phone: **+8801571595523**
 - Email: **sajeebaljabed1@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/sajeebaljabed5523**
+
 
